@@ -1,0 +1,8 @@
+.buttom-custom {
+  padding: 10px;
+  border-style: none;
+}
+
+.buttom-custom:hover {
+  background: #2a75bb;
+}
